@@ -1,2 +1,6 @@
 ebin
-priv
+mix.lock
+_build/
+.applist
+Mnesia*/
+deps
